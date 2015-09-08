@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Cabin Sketch';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Cabin Sketch Regular'), local('CabinSketch-Regular'), url(CabinSketch-Regular.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'Shanti';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Shanti'), url(Shanti.woff2) format('woff2');
+}
