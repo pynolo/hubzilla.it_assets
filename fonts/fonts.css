@@ -1,9 +1,10 @@
-@font-face {
-  font-family: 'Cabin Sketch';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Cabin Sketch Regular'), local('CabinSketch-Regular'), url(CabinSketch-Regular.woff2) format('woff2');
-}
+@font-face {font-family: 'Ruda'; font-style: normal; font-weight: 400;
+  src: local('Ruda'), url(ruda/Ruda.woff) format('woff');}
+@font-face {font-family: 'Ruda'; font-style: normal; font-weight: 700;
+  src: local('Ruda Bold'), local('Ruda-Bold'), url(ruda/Ruda-Bold.woff) format('woff');}
+@font-face {font-family: 'Ruda'; font-style: normal; font-weight: 900;
+  src: local('Ruda Black'), local('Ruda-Black'), url(ruda/Ruda-Black.woff) format('woff');}
+
 @font-face {
   font-family: 'Shanti';
   font-style: normal;
