@@ -11,7 +11,7 @@ html {
 }
 
 body {
-    font:15px/23px 'Cabin Sketch',sans-serif;
+    font:15px/23px 'Ruda Bold',sans-serif;
     margin:0;
     padding:0;
     height:100%;
@@ -97,7 +97,7 @@ ul li {
 }
 
 .big-background-title {
-    font-family:'Cabin Sketch',sans-serif;
+    font-family:'Ruda Bold',sans-serif;
     font-size:78px;
     color:#fff;
     font-weight:300;
@@ -161,7 +161,7 @@ a.big-background-btn {
 }
 
 .about-section-title {
-    font-family:'Cabin Sketch',sans-serif;
+    font-family:'Ruda Bold',sans-serif;
     font-size:40px;
     background:#fff;
     color:#3d566e;
@@ -202,7 +202,7 @@ a.about-section-btn {
 /* SMALL VIDEO BACKGROUND 
 ================================================== */
 .small-background-section {
-    font-family:'Cabin Sketch',sans-serif;
+    font-family:'Ruda Bold',sans-serif;
     padding:100px 0;
     position:relative;
     width:100%;
